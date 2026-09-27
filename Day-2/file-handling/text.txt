@@ -1,0 +1,12 @@
+This allows Git to combine the separate local and remote histories.
+
+Step 2 — If Git reports a README conflict
+
+Open README.md in VS Code, resolve the conflict, and save it. If there is no conflict, proceed.
+
+Step 3 — Commit and push
+git add .
+git commit -m "Merge remote README"
+git push -u origin main
+
+If the pull automatically creates a merge commit, you can skip the git commit command and proceed to git push.
