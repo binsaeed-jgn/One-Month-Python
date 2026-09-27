@@ -1,4 +1,16 @@
 
+name =  input("Enter your name ").strip()
+title = input("Enter your title ").strip().title()
+
+# name & title 
+print(f"My name is: {name}  My title is: {title} ")
+
+# name firt two letters
+print(f"Name first two letters: {name[:2]} ")
+print(f"Name last three letters: {name[-3:]}")
+print(f"title jumping 2 letters: {title[0:-1:2]}")
+
+
 """ name =  input("Enter your name ").strip()
 title = input("Enter your title ").strip().title()
 
@@ -81,4 +93,6 @@ for color in colors:
 username = ["Bashir", "Ali", "Bashir", "Ali"]
 set_username = set(username)
 print(set_username)
+
+
 
