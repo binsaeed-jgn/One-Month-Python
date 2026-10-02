@@ -1,4 +1,4 @@
-
+ 
 #collect name & greet
 name = input("Enter Your name: ")
 def greet():
