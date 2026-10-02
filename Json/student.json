@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Isah",
+    "dept": "SWE",
+    "level": 100,
+    "cgpa": 3.7,
+    "skills": [
+      "python",
+      "html",
+      "css"
+    ]
+  },
+  {
+    "name": "Adam",
+    "dept": "CBY",
+    "level": 200,
+    "cgpa": 3.99,
+    "skills": [
+      "python",
+      "html",
+      "css"
+    ]
+  },
+  {
+    "name": "Ahmad",
+    "dept": "CSC",
+    "level": 300,
+    "cgpa": 5.0,
+    "skills": [
+      "python",
+      "html",
+      "css"
+    ]
+  },
+  {
+    "name": "Bash",
+    "dept": "IT",
+    "level": 400,
+    "cgpa": 4.79,
+    "skills": [
+      "python",
+      "html",
+      "css"
+    ]
+  }
+]

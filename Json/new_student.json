@@ -1,0 +1,11 @@
+{
+    "name": "Ahmad",
+    "dept": "CSC",
+    "level": 300,
+    "cgpa": 5.0,
+    "skills": [
+      "python",
+      "html",
+      "css"
+    ]
+  }
