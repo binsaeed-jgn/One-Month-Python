@@ -1,0 +1,11 @@
+Name  Bash
+versity Buk
+Level 300
+Dept SWE
+
+Name: Bukhar
+School: wamy
+class: ss2
+cGPA: 5:00
+title: legend
+
